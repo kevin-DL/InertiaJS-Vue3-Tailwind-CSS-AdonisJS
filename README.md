@@ -1,0 +1,1 @@
+#InertiaJS + Vue3 + Tailwind CSS + AdonisJS Bolierplate
